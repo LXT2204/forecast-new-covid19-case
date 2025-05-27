@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="648b20f4-6635-4770-9c19-04015949539c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/kan.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processData.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellokan.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hellokan.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/0.0_cache_data" beforeDir="false" afterPath="$PROJECT_DIR$/model/0.0_cache_data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/0.0_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/model/0.0_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/0.0_state" beforeDir="false" afterPath="$PROJECT_DIR$/model/0.0_state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pykan.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/pykan.egg-info/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pykan.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pykan.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pykan.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pykan.egg-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2wDLzewBHi5N3VQPAKDzDiirIJ5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Doctests in MultKAN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/1__Study/2__School__/BigData/project/pykan&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="648b20f4-6635-4770-9c19-04015949539c" name="Changes" comment="" />
+      <created>1745571461861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745571461861</updated>
+      <workItem from="1745571463003" duration="4965000" />
+      <workItem from="1745652681222" duration="3904000" />
+      <workItem from="1746341844261" duration="3759000" />
+      <workItem from="1746347564813" duration="3413000" />
+      <workItem from="1746599976432" duration="4243000" />
+      <workItem from="1746764879654" duration="3053000" />
+      <workItem from="1746779568753" duration="1441000" />
+      <workItem from="1746949439018" duration="36000" />
+      <workItem from="1747906585314" duration="1787000" />
+      <workItem from="1748163422788" duration="5187000" />
+      <workItem from="1748232399066" duration="9725000" />
+      <workItem from="1748254621355" duration="318000" />
+      <workItem from="1748269116245" duration="1738000" />
+      <workItem from="1748321637565" duration="1972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pykan$Doctests_in_MultKAN.coverage" NAME="Doctests in MultKAN Coverage Results" MODIFIED="1746766795831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kan" />
+    <SUITE FILE_PATH="coverage/pykan$main.coverage" NAME="main Coverage Results" MODIFIED="1746766807870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

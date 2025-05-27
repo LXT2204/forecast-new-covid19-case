@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  python-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: python-kan
+    working_dir: /home/kan/app
+    volumes:
+      - ./:/home/kan/app
+    user: "kan"
+    tty: true
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    ports:
+      - "8888:8888"
