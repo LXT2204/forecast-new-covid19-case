@@ -1,0 +1,84 @@
+# Application of Kolmogorov-Arnold Networks 2.0 in COVID-19 Case Development Prediction
+
+
+## Introduction
+This project focuses on the research and application of Kolmogorov-Arnold Networks 2.0 (KANs 2.0) for predicting the development of COVID-19 cases. The goal is to develop an accurate and interpretable forecasting tool to assist public health policymakers.
+
+## Key Features
+
+List the main features or highlights of project.
+
+* **Accurate Prediction:** Utilizes KANs 2.0 to achieve high accuracy in forecasting COVID-19 case numbers.
+* **Interpretability:** Offers deeper insights into factors influencing disease spread through learned activation functions.
+* **Healthcare Resource Management:** Supports forecasting healthcare resource needs (e.g., hospital beds, equipment).
+
+## Getting Started
+
+### Prerequisites
+
+List all software, libraries, or tools that users need to install before they can run the project.
+#### Use local env:
+* [Python](https://www.python.org/) (version 3.9.7)
+* [pip](https://pip.pypa.io/en/stable/)
+* numpy==1.24.4
+* matplotlib==3.6.2
+* scikit_learn==1.1.3
+* setuptools==65.5.0
+* sympy==1.11.1
+* tqdm==4.66.2
+* pandas==2.0.1
+* seaborn
+* pyyaml
+
+### Installation
+
+Provide detailed steps to install the project.
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/LXT2204/forecast-new-covid19-case](https://github.com/LXT2204/forecast-new-covid19-case)
+    cd forecast-new-covid19-case
+    ```
+
+2.  **Create a virtual environment (recommended):**
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Linux/macOS
+    # Or: .\venv\Scripts\activate  # On Windows
+    ```
+
+3.  **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+#### Using docker container env
+
+1. **Clone the repository:**
+    ```bash
+    git clone [https://github.com/LXT2204/forecast-new-covid19-case](https://github.com/LXT2204/forecast-new-covid19-case)
+    cd forecast-new-covid19-case
+    ```
+
+2. **Run container:**   
+    ```bash
+    docker compose up -d
+    ```
+3. **Exec into container pykan**
+    ```bash
+    docker exec -it python-kan bash
+    ```
+4.  **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### How to Run
+1. **Run with notebook lab**
+    ```bash
+    python3 -m notebook --port=8888 --no-browser --ip=0.0.0.0 --allow-root
+    ```
+
+2. **Run with python**
+    ```bash
+    python main.py
+    ```
